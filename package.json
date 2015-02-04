@@ -35,7 +35,6 @@
   "dependencies": {
     "defaults": "^1.0.0",
     "get-object-path": "0.0.2",
-    "loggly": "^1.0.8",
     "object-path-set": "0.0.1"
   },
   "devDependencies": {
