@@ -1,7 +1,7 @@
 {
   "name": "express-requests-loggly",
   "description": "Log Express requests (including those with errors) to Loggly.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/BuildingConnected/express-requests-loggly",
   "author": {
     "name": "Alex Mingoia",
