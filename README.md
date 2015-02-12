@@ -40,6 +40,7 @@ var logger = new LogglyRequestLogger({
     json: true
   })
 });
+```
 
 <a name="module_express-requests-loggly#requestHandler"></a>
 ###express-requests-loggly.requestHandler()
